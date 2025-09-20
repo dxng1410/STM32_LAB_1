@@ -155,7 +155,7 @@ int main(void)
 	  }
 
 	  if(hour == 24) hour = 0;
-	  HAL_Delay(100);
+	  HAL_Delay(1000);
 
     /* USER CODE BEGIN 3 */
   }
