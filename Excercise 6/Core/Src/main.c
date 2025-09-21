@@ -219,7 +219,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  int excercise = 9;
+  int excercise = 6;
 
 
   while (1)
